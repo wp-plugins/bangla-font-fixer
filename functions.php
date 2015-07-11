@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Bangla Font Fixer
-Plugin URI: http://bhinno.net/Bangla-Font-Fixer
+Plugin URI: http://bhinno.net/bangla-font-fixer
 Description: বাংলা ফন্ট ভেঙে যাওয়ার সমস্যা থেকে পরিত্রাণ পান।
 Author: Tasnimul Hasan Tauhid
 Version: 1.0
