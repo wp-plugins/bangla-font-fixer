@@ -3,7 +3,7 @@ Contributors: tht52
 Tags: bangla, font, fix, fixer, break down
 Requires at least: 3.0
 Tested up to: 4.2.2
-Stable tag: 1.1
+Stable tag: 1.1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -34,5 +34,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 * প্রথম প্রকাশ করা হল।
 = 1.0.1 =
 বৃন্দা ফন্ট ফল-ব্যাক হিসাবে যুক্ত করা হল।
-= 1.1=
+= 1.1 =
 আরও অনেক ট্যাগের জন্য বাংলা ফন্ট ফিক্সারকে উন্নয়ন করা হলো।
+= 1.1.1 =
+কিছু ত্রুটি ঠিক করা হলো। 

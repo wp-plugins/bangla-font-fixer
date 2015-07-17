@@ -4,7 +4,7 @@ Plugin Name: Bangla Font Fixer
 Plugin URI: http://bff.bhinno.net/
 Description: বাংলা ফন্ট ভেঙে যাওয়ার সমস্যা থেকে পরিত্রাণ পান।
 Author: Tasnimul Hasan Tauhid
-Version: 1.1
+Version: 1.1.1
 Author URI: http://www.facebook.com/tht52
 */
 
